@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/andreaguerrero8/ejercicioHook.git/static/css/main.1a8a0596.css",
+    "main.js": "/andreaguerrero8/ejercicioHook.git/static/js/main.56f01a20.js",
+    "index.html": "/andreaguerrero8/ejercicioHook.git/index.html",
+    "main.1a8a0596.css.map": "/andreaguerrero8/ejercicioHook.git/static/css/main.1a8a0596.css.map",
+    "main.56f01a20.js.map": "/andreaguerrero8/ejercicioHook.git/static/js/main.56f01a20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.56f01a20.js"
+  ]
+}
